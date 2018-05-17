@@ -1,0 +1,31 @@
+page-recordsearch {
+    .item-md p {
+        margin: 0 0 2px;
+        overflow: inherit;
+        font-size: 1.4rem;
+        line-height: normal;
+        text-overflow: inherit;
+        color: #f4f4f4;
+    }
+    .item-ios p {
+        margin: 0 0 2px;
+        overflow: inherit;
+        font-size: 1.4rem;
+        line-height: normal;
+        text-overflow: inherit;
+        color: #f4f4f4;
+    }
+    .item-md.item-block .item-inner {
+        border-bottom: 0.55px solid transparent !important;
+    }
+    .item-ios.item-block .item-inner {
+        border-bottom: 0.55px solid transparent !important;
+    }
+
+    .toolbar-ios {
+        padding: 4px;
+        padding-left: 4px;
+        padding-right: 4px;
+        min-height: 35px;
+    }
+}
